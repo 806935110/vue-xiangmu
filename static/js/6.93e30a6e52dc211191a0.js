@@ -1,0 +1,2 @@
+webpackJsonp([6],{"/pYY":function(n,e){},hOn2:function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("S")])},staticRenderFns:[]};var i=t("VU/8")({name:"Shangping",data:function(){return{}}},r,!1,function(n){t("/pYY")},null,null);e.default=i.exports}});
+//# sourceMappingURL=6.93e30a6e52dc211191a0.js.map
